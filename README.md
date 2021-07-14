@@ -1,5 +1,5 @@
-# Programação
-Como programar?
+# Como programar?
+Como faço para programar?
 
 ![AltText](https://github.com/JeanPaulo-Eletron/Como_Deve_Ser_Feito/blob/master/capa.png)
 
