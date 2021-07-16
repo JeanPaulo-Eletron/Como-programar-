@@ -1,6 +1,6 @@
 ---
 
-3 -  [Voltar <-](https://github.com/JeanPaulo-Eletron/Como-programar-)
+3 -  [Voltar <-] (Modo_de_leitura.md)
 
 ---
 
