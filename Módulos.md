@@ -1,6 +1,6 @@
 ---
 
-3 -  [Voltar <-] (Modo_de_leitura.md)
+3 -  [Voltar <-](Modo_de_leitura.md)
 
 ---
 
