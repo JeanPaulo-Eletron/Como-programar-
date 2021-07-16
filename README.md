@@ -5,4 +5,4 @@ você pode escolher dois modos de leitura, o modo história para caso não saiba
 
 ![AltText](https://github.com/JeanPaulo-Eletron/Como-programar-/blob/master/Capa_ComoProgramar.png)
 
-1. [Entrar no livro](Sumário.md)
+1. [Entrar no livro](Modo_de_leitura.md)
